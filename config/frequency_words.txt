@@ -4,22 +4,10 @@ gemini
 
 机器人
 
-脑机接口
 
-单机游戏
+3A游戏
 
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
+电影
 
 
 自动驾驶
@@ -27,7 +15,4 @@ ios
 
 
 A股
-上证
-深证
-+涨跌
-!预测
+
